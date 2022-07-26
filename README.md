@@ -1,6 +1,7 @@
 # CICD_Java_gradle_application
 
-This is a hello world application
+
+This is a new line
 
 This application is java spring boot web application  
 
